@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nickthenoob.com/sitemap.xml
+Sitemap: https://www.nickthenoob.com/sitemap.xml
